@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oleole
+=======
+nana
+>>>>>>> actualizando
